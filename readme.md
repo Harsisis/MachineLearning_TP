@@ -3,5 +3,5 @@ Gauthier CADET
 Sophie HERB
 Tristan SCHWARTZ
 
-## TP
-Executer le fichier .ipynb
+## TPs
+Executer le fichier .ipynb du dossier du TP souhaité
