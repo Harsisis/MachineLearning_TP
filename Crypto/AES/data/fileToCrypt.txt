@@ -1,0 +1,3 @@
+Je suis un paragraphe. Ceci est le texte à crypter avec l'algorithme AES.
+
+Développé par Gauthier Cadet
